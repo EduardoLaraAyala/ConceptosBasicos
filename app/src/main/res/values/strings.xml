@@ -1,0 +1,4 @@
+<resources>
+    <string name="complete_text">All tasks completed</string>
+    <string name="message_complete_text">Nice work!</string>
+</resources>
